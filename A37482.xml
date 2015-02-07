@@ -706,52 +706,56 @@ Farmed of the King at above 120000 <hi>l.</hi> a year.</p>
 hath; which leads us to take a View of the <hi>Publick
 Structures,</hi> which for methods ſake ſhall be deſcribed
 in this order.</p>
-               <figure>
-                  <p>NEW-GATE.</p>
-               </figure>
-               <figure>
-                  <p>LUD-GATE.</p>
-               </figure>
-               <figure>
+               <p>
+                  <pb facs="tcp:32497:10"/>
                   <pb facs="tcp:32497:11"/>
-                  <p>CRIPPLE-GATE.</p>
-               </figure>
-               <figure>
-                  <p>ALDERS-GATE</p>
-               </figure>
-               <figure>
-                  <pb facs="tcp:32497:12"/>
-                  <p>WESTMINSTER ABBY 25 PARLAMENT HOVS<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>
-                  </p>
-               </figure>
-               <figure>
-                  <p>THE MON VMENT</p>
-               </figure>
-               <figure>
-                  <pb facs="tcp:32497:12"/>
-                  <p>S<hi rend="sup">t</hi> MARY OVERIE<gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>S<g ref="char:punc">▪</g> CHVRCH</p>
-               </figure>
-               <figure>
-                  <p>BOW STEEPLE</p>
-               </figure>
-               <figure>
-                  <pb facs="tcp:32497:13"/>
-                  <p>BISHOPS-GATE.</p>
-               </figure>
-               <figure>
-                  <p>MOORE-GATE.</p>
-               </figure>
-               <figure>
-                  <pb facs="tcp:32497:13"/>
-                  <p>THE TOWER.</p>
-               </figure>
-               <figure>
-                  <p>ALD-GATE.</p>
-               </figure>
+                  <figure>
+                     <p>NEW-GATE.</p>
+                  </figure>
+                  <figure>
+                     <p>LUD-GATE.</p>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:32497:11"/>
+                     <p>CRIPPLE-GATE.</p>
+                  </figure>
+                  <figure>
+                     <p>ALDERS-GATE</p>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:32497:12"/>
+                     <p>WESTMINSTER ABBY 25 PARLAMENT HOVS<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                  </figure>
+                  <figure>
+                     <p>THE MON VMENT</p>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:32497:12"/>
+                     <p>S<hi rend="sup">t</hi> MARY OVERIE<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>S<g ref="char:punc">▪</g> CHVRCH</p>
+                  </figure>
+                  <figure>
+                     <p>BOW STEEPLE</p>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:32497:13"/>
+                     <p>BISHOPS-GATE.</p>
+                  </figure>
+                  <figure>
+                     <p>MOORE-GATE.</p>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:32497:13"/>
+                     <p>THE TOWER.</p>
+                  </figure>
+                  <figure>
+                     <p>ALD-GATE.</p>
+                  </figure>
+               </p>
                <list>
                   <item>
                      <pb facs="tcp:32497:14"/>
@@ -3964,12 +3968,16 @@ Churches round about <hi>London,</hi> (becauſe
 not ſo immediately relating to the Deſign in hand)
 we ſhall proceed to treat of <hi>Hoſpitals,</hi> eſpecially the
 moſt Eminent.</p>
-                  <figure>
-                     <p>NEW BEDLAM.</p>
-                  </figure>
-                  <figure>
-                     <p>BRIDE WELL.</p>
-                  </figure>
+                  <p>
+                     <pb facs="tcp:32497:51"/>
+                     <pb facs="tcp:32497:52"/>
+                     <figure>
+                        <p>NEW BEDLAM.</p>
+                     </figure>
+                     <figure>
+                        <p>BRIDE WELL.</p>
+                     </figure>
+                  </p>
                </div>
                <div n="3" type="section">
                   <pb n="81" facs="tcp:32497:52"/>
@@ -4789,20 +4797,59 @@ of this Renowned City, who in all their
 undertakings, and in all Publick Acts of Ornament
 to the City, or Charity to the Poor, have demonſtra<g ref="char:EOLhyphen"/>ted
 themſelves to be Peerleſs.</p>
-                  <figure>
-                     <pb facs="tcp:32497:62"/>
-                     <p>WESTMINSTER HALL</p>
-                  </figure>
-                  <figure>
-                     <p>THE ROYALL EXCHANGE</p>
-                  </figure>
-                  <figure>
-                     <pb facs="tcp:32497:62"/>
-                     <p>CLARENDON HOVSE</p>
-                  </figure>
-                  <figure>
-                     <p>COVENT GARDEN</p>
-                  </figure>
+                  <p>Beſides theſe Grand <hi>Hoſpitals,</hi> there are a great
+many <hi>Alms-Houſes</hi> in and about the City, which
+were the Gifts of Pious and Worthy Perſons, of
+which, as far as we could obtain a diſtinct Informa<g ref="char:EOLhyphen"/>tion,
+we have given an account in the Chapter
+of Churches. I have Read that in the 44 of <hi>Edward</hi>
+the III. an <hi>Hoſpital</hi> was Founded by <hi>Robert Denton,</hi>
+Chaplain in the Pariſh of <hi>Barking,</hi> for the Suſtenta<g ref="char:EOLhyphen"/>tion
+of Poor Lunaticks, or ſuch as were Phrenetick,
+or Sick of the Phrenzie, there to remain till they
+were perfectly whole, and reſtored to good Memo<g ref="char:EOLhyphen"/>ry.
+There was alſo an <hi>Hoſpital</hi> of St. <hi>Mary Spittle,</hi>
+in <hi>Spittle-Fields,</hi> but diſſolved. There was like<g ref="char:EOLhyphen"/>wiſe
+an <hi>Hoſpital</hi> of St. <hi>Anthony,</hi> in the Pariſh of <hi>Ben<g ref="char:EOLhyphen"/>net-Fink.</hi>
+The Protectors of this Houſe were to
+Collect the Benevolence of Charitable Perſons, to<g ref="char:EOLhyphen"/>wards
+the Building and Support thereof. Theſe
+Officers were charg'd with the over-ſight of the
+Markets in the City, and did ſeveral times take
+from the Market-People, Pigs ſtarved, or otherwiſe
+unwholſom for Mans ſuſtenance; which they ſlit in
+the Ear, and one of the Proctors of St. <hi>Anthonies,</hi>
+tyed a Bell about the Neck, and let it feed at plea<g ref="char:EOLhyphen"/>ſure,
+on Dung-hills, or other places, which no Body
+would hurt or take up: but if any gave them Bread
+or other Feeding, ſuch would they know, watch for,
+and follow, whining till they had given them ſome<g ref="char:EOLhyphen"/>thing,
+whereupon was raiſed a Proverb. <hi>
+                        <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e whines
+(or followeth) like a Tantony-Pig;</hi> but if the Pigs
+<pb facs="tcp:32497:61"/>
+                     <figure>
+                        <pb facs="tcp:32497:62"/>
+                        <p>WESTMINSTER HALL</p>
+                     </figure>
+                     <figure>
+                        <p>THE ROYALL EXCHANGE</p>
+                     </figure>
+                     <figure>
+                        <pb facs="tcp:32497:62"/>
+                        <p>CLARENDON HOVSE</p>
+                     </figure>
+                     <figure>
+                        <p>COVENT GARDEN</p>
+                     </figure>
+                     <pb facs="tcp:32497:63"/>
+                     <pb n="99" facs="tcp:32497:63"/>
+came to be Fat, and of good liking, the Proctor
+would apprehend them for the Uſe of the <hi>Hoſpital;</hi>
+which is a matter not be much wondred at, for thoſe
+Perſons uſually loved their Bellies very well.</p>
                   <p>There was of old an <hi>Hoſpital</hi> of St. <hi>Mary Rounci<g ref="char:EOLhyphen"/>val</hi>
 by <hi>Charing-Croſs,</hi> but ſuppreſſed, and turned to
 Tenements. So much for the <hi>Hoſpitals.</hi>
@@ -9717,12 +9764,15 @@ King <hi>CHARLES</hi> the I. on Horſe-back, all of<gap reason="illegible" resp=
                         </gap>
 Solid Braſs, at <hi>Charing-Croſs;</hi> the Figures of both
 which are here Exhibited.</p>
-                     <figure>
-                        <p>THE K. AT THE STOCKs MARKET</p>
-                     </figure>
-                     <figure>
-                        <p>THE K. AT CHARING CROSs.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:32497:128"/>
+                        <figure>
+                           <p>THE K. AT THE STOCKs MARKET</p>
+                        </figure>
+                        <figure>
+                           <p>THE K. AT CHARING CROSs.</p>
+                        </figure>
+                     </p>
                   </div>
                </div>
             </div>
@@ -15365,9 +15415,72 @@ Name, they have Power and Immunities, granted
 them, do make Acts and Orders for the Benefit of
 Commerce in General, and of their Companies in
 particular.</p>
-                  <figure/>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <figure/>The Antienteſt of theſe, cal<g ref="char:EOLhyphen"/>led
+the <hi>Company of Merchant
+Adventurers,</hi> have had their
+Original and Continuance ſince
+<hi>Edward</hi> the Firſt, Grounded at
+firſt upon the Exportation of
+<hi>Wo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll</hi> only, as the Prime and
+Staple Commodity of <hi>En<g ref="char:EOLhyphen"/>gland;</hi>
+but now upon <hi>Cloath<g ref="char:EOLhyphen"/>ing,</hi>
+into which the <hi>Wooll</hi>
+is converted: that King Removed the Staple
+out of <hi>Flanders,</hi> and allured over ſome <hi>Flemings</hi>
+which taught the <hi>Engliſh</hi> to make Cloth, ſo that they
+are now the beſt <hi>Clothiers</hi> or <hi>Cloth-Workers</hi> in the
+World,—And to Encourage them, he Enacted in the
+twenty ſeventh of His Reign, by Statute, that it ſhould
+be <hi>Felony to Tranſport Wools unwrought.</hi> This
+Staple was afterwards Removed to <hi>Callais,</hi> to Inrich
+it; afterwards to <hi>Antwerp, Middleborough, Stoad,
+Delph, Rotterd<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m,</hi> and <hi>Hamborough.</hi>—It
+now includes all Drapery, and is Govern'd be<g ref="char:EOLhyphen"/>yond
+Sea by a <hi>Deputy</hi> and certain <hi>Aſſistants,</hi> and in
+<hi>England</hi> by a <hi>Governour, Deputy,</hi> and certain <hi>Aſſi<g ref="char:EOLhyphen"/>ſtants.
+Stow</hi> ſays, that the Company of <hi>Merchants</hi>
+called the <hi>Staple,</hi> were Incorporated by <hi>Edward</hi> III.
+But the <hi>Merchant Adventurers</hi> by <hi>Edward</hi> IV.</p>
+                  <p>
+                     <pb n="303" facs="tcp:32497:175"/>
+                     <figure/>The Company of <hi>Merchants
+of Levant,</hi> termed <hi>Turky Mer<g ref="char:EOLhyphen"/>chants,</hi>
+were Incorporated by
+Queen <hi>Elizabeth,</hi> and had their
+Charter Confirmed and Enlarg<g ref="char:EOLhyphen"/>ed
+by King <hi>James.</hi> They firſt
+made diſcoveries into the Traf<g ref="char:EOLhyphen"/>fick
+of the Seigniory of <hi>Venice,</hi>
+and the Dominions of the great
+<hi>Turk,</hi> having then the priviledges of the <hi>Eaſt-Indi<g ref="char:EOLhyphen"/>an</hi>
+Traffick,—the Navigation to us then unknown
+by Sea, but the <hi>Portugals</hi> knew it.</p>
+                  <p>
+                     <figure/>Now there is a Great and
+Eminent Company, that Man<g ref="char:EOLhyphen"/>age
+the <hi>Eaſt-India</hi> Trade, and
+by themſelves Incorporated, in
+Queen <hi>Elizabeths</hi> time, <hi>Anno</hi>
+1600. Imploying a Joynt Stock,
+they have a Great <hi>Capital,</hi> or
+Houſe, called the <hi>Eaſt-India-Houſe;</hi>
+by the ſaid Trade and
+Stock they have Built many Warlike Ships, and
+brought all thoſe <hi>Indian</hi> Commodities to our homes,
+which before were brought to us by other Nations;
+both which Companies, (<hi>viz.</hi> the <hi>Levant</hi> and <hi>Eaſt-India,</hi>)
+now ſupply our Land, and by their ſecond
+Tranſportation many other Countries, with thoſe rich
+<hi>Merchandizes</hi> which <hi>Veneria, Turky, Arabia, Perſia,
+China,</hi> and <hi>India</hi> yeild; theſe have their reſpective
+Governors, to which are joyned certain <hi>Commiſſion<g ref="char:EOLhyphen"/>ers</hi>
+and <hi>Aſſiſtants.</hi>
+                  </p>
                   <p>The Company of <hi>Merchants of Ruſſia</hi> were Incor<g ref="char:EOLhyphen"/>porated
 by King <hi>Edward</hi> VI and their Charter Con<g ref="char:EOLhyphen"/>firmed
 and Enlarged by Queen <hi>Elizabeth.</hi> As alſo
@@ -17391,7 +17504,10 @@ parts, which will be longer) by which the cauſe of
 delay of Letters may be eaſily diſcern'd, <hi>viz.</hi> whether
 it be really in the Office, or their own Servants, (or
 others) with whom Letters are left.</p>
-                     <figure/>
+                     <p>The Marks they make uſe of for this purpoſe, are
+theſe:
+<figure/>
+                     </p>
                      <p>Of which the Firſt, ſignifies Eight in the Morning,
 the Laſt, Four in the Afternoon, and the Middlemoſt,
 is the Letter of the chief Office in <hi>Lyme-ſtreet,</hi> each
